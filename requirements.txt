@@ -1,0 +1,6 @@
+langchain
+python_dotenv
+langchain_community
+langchain_core
+streamlit
+## ollama pull orca-mini
